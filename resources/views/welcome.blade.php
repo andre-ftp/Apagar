@@ -93,7 +93,7 @@
                                             <h2 class="text-xl font-semibold text-black dark:text-white">Documentation</h2>
 
                                             <p class="mt-4 text-sm/relaxed">
-                                                Laravelllllll hassssssssss wonderfulsssss dddddddddddocumentation covering every aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
+                                                Laravelllllll hassssssssss wonderfulsssss dddddddddddocumentation covering everyyyyyyyy aspect of the framework. Whether you are a newcomer or have prior experience with Laravel, we recommend reading our documentation from beginning to end.
                                             </p>
                                         </div>
                                     </div>
